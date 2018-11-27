@@ -15,9 +15,23 @@ A living collection of tips and recipes I am learning during my process of going
 
 ## Recipes
 
+### Nutella (1 jar)
+
+Blend together:
+
+- 200g of roasted and peeled hazelnuts
+- 6 pitted dates
+- 1/3 cup cocoa powder
+- 1/3 cup coconut oil
+- 1/3 cup almond milk
+- 2 tbsp agave syrup
+- 1 tsp vanilla extract
+- 1/4 tsp salt
+
 ### Vegan lasagna (8 portions)
 
 **Ingredients for the sauce**
+
 - 3 medium onions
 - 2 red peppers
 - 1 zucchini
@@ -26,12 +40,14 @@ A living collection of tips and recipes I am learning during my process of going
 - 1 cup texturised soy
 
 **Ingredients for the ricotta**
+
 - 3 pieces (750g) of dryish tofu
 - 2 tbsp lemon juice
 - 3 cloves of garlic
 - 2 tbsp nutritional yeast
 
 **Ingredients for the nutty mixture**
+
 - 200g peeled nuts
 - 3 cloves of garlic
 - 2 tbsp of extra virgin olive oil
@@ -41,10 +57,12 @@ A living collection of tips and recipes I am learning during my process of going
 - 1 teaspoon dry rosemary
 
 **Ingredients for the lasagna**
+
 - 36 (4 layers x 9 sheets) lasagna sheets
 - 1 pack of tomato purée
 
 **Steps**
+
 1. Peel and dice all the stuff for the sauce.
 2. Sauté everything together in extra virgin olive oil.
 3. Once it has got colour and the moisture has evaporated, add half the pack of tomato purée and reserve the rest. 
